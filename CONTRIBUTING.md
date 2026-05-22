@@ -1,6 +1,6 @@
 # Contributing to Software Factory Foundation RFCs
 
-This guide describes the lifecycle of an RFC, the voting rules that move it between stages, and the practical Pull Request workflow used in this repository. It mirrors the [Standards Process](https://software-factory-foundation-site.vercel.app/governance/standards-process) document that the Foundation operates under.
+This guide describes the lifecycle of an RFC, the voting rules that move it between stages, and the practical Pull Request workflow used in this repository. It mirrors the [Standards Process](https://softwarefactory.org/governance/standards-process) document that the Foundation operates under.
 
 ## 1. The RFC Lifecycle
 
@@ -83,7 +83,7 @@ A Final Standard MAY be withdrawn from active status by a two-thirds vote of the
 
 ## 8. IP and Licensing
 
-All contributions are governed by the Foundation's [IP Contribution Policy](https://software-factory-foundation-site.vercel.app/governance/ip-policy). By opening a Pull Request you:
+All contributions are governed by the Foundation's [IP Contribution Policy](https://softwarefactory.org/governance/ip-policy). By opening a Pull Request you:
 
 - Affirm a Developer Certificate of Origin for your contribution.
 - Grant the Foundation a perpetual, irrevocable, royalty-free license to publish, sublicense, and incorporate the contribution into Foundation work product.
@@ -93,11 +93,11 @@ Voting members are additionally bound by the Patent Non-Assertion Covenant defin
 
 ## 9. Antitrust
 
-This repository is a Foundation venue. The [Antitrust & Conflict-of-Interest Policy](https://software-factory-foundation-site.vercel.app/governance/antitrust-policy) applies to all discussion. Do not raise prices, costs, market shares, customer allocation, or any other commercially sensitive topic in Pull Requests, Issues, or related Discussions.
+This repository is a Foundation venue. The [Antitrust & Conflict-of-Interest Policy](https://softwarefactory.org/governance/antitrust-policy) applies to all discussion. Do not raise prices, costs, market shares, customer allocation, or any other commercially sensitive topic in Pull Requests, Issues, or related Discussions.
 
 If a prohibited topic appears, any participant may and should call attention to it. The Working Group chair will end the discussion, record the incident, and seek guidance from Foundation counsel.
 
 ## 10. Questions
 
 For procedural questions: file an Issue labeled `process`.
-For substantive working group questions: use the [foundation contact form](https://software-factory-foundation-site.vercel.app/contact?topic=standards).
+For substantive working group questions: use the [foundation contact form](https://softwarefactory.org/contact?topic=standards).

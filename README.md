@@ -11,14 +11,14 @@ Every published standard begins as a public RFC in this repository. Discussion, 
 | [`rfcs/`](./rfcs) | Individual RFC documents, one markdown file per proposal. |
 | [`rfcs/TEMPLATE.md`](./rfcs/TEMPLATE.md) | The starting point for a new RFC. |
 | [`CONTRIBUTING.md`](./CONTRIBUTING.md) | The full standards process: stages, voting rules, ratification criteria. |
-| [Foundation site](https://software-factory-foundation-site.vercel.app/rfcs) | Browsable index of all RFCs, updated automatically from this repo. |
+| [Foundation site](https://softwarefactory.org/rfcs) | Browsable index of all RFCs, updated automatically from this repo. |
 
 ## Quick links
 
-- [Foundation Charter](https://software-factory-foundation-site.vercel.app/governance/charter)
-- [Standards Process](https://software-factory-foundation-site.vercel.app/governance/standards-process)
-- [Antitrust & Conflict-of-Interest Policy](https://software-factory-foundation-site.vercel.app/governance/antitrust-policy)
-- [IP Contribution Policy](https://software-factory-foundation-site.vercel.app/governance/ip-policy)
+- [Foundation Charter](https://softwarefactory.org/governance/charter)
+- [Standards Process](https://softwarefactory.org/governance/standards-process)
+- [Antitrust & Conflict-of-Interest Policy](https://softwarefactory.org/governance/antitrust-policy)
+- [IP Contribution Policy](https://softwarefactory.org/governance/ip-policy)
 
 ## Filing an RFC
 
@@ -29,4 +29,4 @@ Every published standard begins as a public RFC in this repository. Discussion, 
 
 ## License
 
-Contributions are made under the Foundation's [IP Contribution Policy](https://software-factory-foundation-site.vercel.app/governance/ip-policy). All Final Standards are published under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reference implementations published by the Foundation use Apache 2.0 unless otherwise noted.
+Contributions are made under the Foundation's [IP Contribution Policy](https://softwarefactory.org/governance/ip-policy). All Final Standards are published under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Reference implementations published by the Foundation use Apache 2.0 unless otherwise noted.

@@ -32,7 +32,7 @@ One-paragraph description of what this PR changes.
 - [ ] Front-matter (`id`, `title`, `state`, `working_group`, `working_group_slug`, `authors`) is filled in and accurate.
 - [ ] `updated` date in the front-matter has been bumped.
 - [ ] If advancing state, the relevant voting threshold from `CONTRIBUTING.md` is met and the vote is recorded in this PR.
-- [ ] Discussion in this PR follows the [Antitrust Policy](https://software-factory-foundation-site.vercel.app/governance/antitrust-policy).
+- [ ] Discussion in this PR follows the [Antitrust Policy](https://softwarefactory.org/governance/antitrust-policy).
 
 ## Notes for reviewers
 
